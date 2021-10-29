@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+It makes me happy to help people learn
 <!--
 **maciejjankowski/maciejjankowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
