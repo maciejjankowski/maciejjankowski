@@ -1,6 +1,8 @@
 ### Hi there 👋
 It makes me happy to help people learn
 
+[book a code mentoring call 👨‍💻](https://tidycal.com/maciejjankowski)
+
 
 * [2024 Repository](https://github.com/maciejjankowski/2024/wiki)
 * [2023 Repository](https://github.com/maciejjankowski/2023/wiki)
