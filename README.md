@@ -14,7 +14,9 @@ I have created two courses to help you learn programming
 * [2021 Repository](https://github.com/maciejjankowski/2021/wiki)
 * [Wiki](https://github.com/maciejjankowski/maciejjankowski/wiki)
 
-
+music:
+- [soundcloud](https://on.soundcloud.com/5Zjb278fYSGeSa86A)
+- [youtube](https://youtu.be/iA1rFW5qPDs?si=IbAV5DJUsPKiToAH)
 <!--
 **maciejjankowski/maciejjankowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
