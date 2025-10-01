@@ -4,9 +4,6 @@ It makes me happy to help people learn.
 #### Digital products
 
 I have created two courses to help you learn programming
-* [learn-to-code - intro to python basics](https://github.com/maciejjankowski/learn-to-code)
-* [learn migrating data between ecommerce platforms](https://github.com/maciejjankowski/idosell-to-prestashop)
-* [Courses on Gumroad](https://maciejjankowski.gumroad.com)
 
 #### Coaching and personal development
 * [Rumi's wisdom for the modern times](https://studio.pickaxeproject.com/STUDIO3BJTAR4TX4DQCCK/This_is_Rumi_JQ5B3)
@@ -16,12 +13,13 @@ I have created two courses to help you learn programming
 
 
 #### Everything else
-
+* [2025 Repository](https://github.com/maciejjankowski/2025/wiki)
 * [2024 Repository](https://github.com/maciejjankowski/2024/wiki)
 * [2023 Repository](https://github.com/maciejjankowski/2023/wiki)
 * [2022 Repository](https://github.com/maciejjankowski/2022/wiki)
 * [2021 Repository](https://github.com/maciejjankowski/2021/wiki)
 * [Wiki](https://github.com/maciejjankowski/maciejjankowski/wiki)
+* [Gists](https://gist.github.com/maciejjankowski/)
 
 #### Music
 
